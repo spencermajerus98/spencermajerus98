@@ -16,7 +16,7 @@ I'm a Research Technologist with a deep interest in leveraging AI and machine le
 - **AI/ML Focus:**
   - Large Language Models (LLMs) - Fine-tuning for domain-specific applications
   - Deep Learning frameworks (TensorFlow, PyTorch)
-  - Object Detection & YOLO architectures
+  - Object Detection & CNNs, ResNet, ViT (RF-DETR)
 - **Tools & Platforms:** Git, Jupyter Notebooks, Docker, scikit-learn, pandas, NumPy
 
 ## 🔬 Current Focus
